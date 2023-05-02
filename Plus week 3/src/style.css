@@ -1,0 +1,57 @@
+form {
+  position: relative;
+  left: 80px;
+}
+.container {
+  border: solid;
+  display: block;
+  margin: 200px auto;
+  padding: 50px;
+  background: #e4f1fe;
+}
+.date {
+  font-size: 20px;
+}
+.weather-today {
+  font-size: 60px;
+  color: #e3e3e3;
+  position: relative;
+  top: 20px;
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+}
+.weather-emoji {
+  font-size: 40px;
+  color: #e3e3e3;
+  text-shadow: 1px 1px 2px black;
+}
+.col {
+  text-align: center;
+}
+.col-4 {
+  position: relative;
+  left: 80px;
+}
+.col-5 {
+  position: relative;
+  top: 25px;
+}
+.search-bar {
+  border-radius: 30px;
+  width: 500px;
+  padding: 5px 20px;
+}
+.search-button {
+  border-radius: 30px;
+  padding: 5px 20px;
+}
+.current-location {
+  border-radius: 30px;
+  padding: 5px 20px;
+}
+.sun {
+  color: #ffd43a;
+}
+.wind {
+  color: #fff;
+}
